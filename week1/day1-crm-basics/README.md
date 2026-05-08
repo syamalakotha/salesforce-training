@@ -145,7 +145,7 @@ The student successfully completes admission and becomes an official student of 
 # Screenshots
 
 ## Trailhead Module Completion
-![Trailhead Module Completion](images/trailhead-module.png)
+![Trailhead Module Completion](images/[trailhead-module.png](https://github.com/syamalakotha/salesforce-training/blob/d71326fac9f1181fa800b90e1b5ccb3f8228db86/week1/day1-crm-basics/Trailhead%20Module%20Completion.png))
 
 ---
 
