@@ -142,32 +142,22 @@ The student admission process is tracked, including application review and fee p
 
 ### Customer
 The student successfully completes admission and becomes an official student of the college.
-# Screenshots
+## Screenshots
 
-## Trailhead Module Completion
-![Trailhead Module Completion](Trailhead Module Completion.png)
+### Trailhead Module Completion
+![Trailhead Module Completion](trailhead-module.png)
 
----
+### Salesforce Playground
+![Salesforce Playground](playground.png)
 
-## Salesforce Playground
-![Salesforce Playground](Salesforce Playground.png)
+### CRM Module Completion
+![CRM Module Completion](crm-module.png)
 
----
+### Playground Setup
+![Playground Setup](playground-setup.png)
 
-## CRM Module Completion
-![CRM Module Completion](CRM Module Completion.png)
+### Platform basics
+![Platform basics](platform-basics-completed.png.png)
 
----
-
-## Playground Setup
-![Playground Setup](Playground Setup.png)
-
----
-
-## Platform Basics
-![Platform Basics](Platform Basics.png)
-
----
-
-## Data Model Basics
-![Data Model Basics](Data Model Basics.png)
+### Data Model Basics
+![Data Model Basics](data-model-basics-completed.png)
