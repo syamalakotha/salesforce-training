@@ -145,29 +145,29 @@ The student successfully completes admission and becomes an official student of 
 # Screenshots
 
 ## Trailhead Module Completion
-![Trailhead Module Completion](images/[trailhead-module.png](https://github.com/syamalakotha/salesforce-training/blob/d71326fac9f1181fa800b90e1b5ccb3f8228db86/week1/day1-crm-basics/Trailhead%20Module%20Completion.png))
+![Trailhead Module Completion](Trailhead Module Completion.png)
 
 ---
 
 ## Salesforce Playground
-![Salesforce Playground](images/Trailhead Module Completion.png)
+![Salesforce Playground](Salesforce Playground.png)
 
 ---
 
 ## CRM Module Completion
-![CRM Module Completion](images/CRM Module Completion.png)
+![CRM Module Completion](CRM Module Completion.png)
 
 ---
 
 ## Playground Setup
-![Playground Setup](images/Playground Setup.png)
+![Playground Setup](Playground Setup.png)
 
 ---
 
 ## Platform Basics
-![Platform Basics](images/Platform Basics.png)
+![Platform Basics](Platform Basics.png)
 
 ---
 
 ## Data Model Basics
-![Data Model Basics](images/Data Model Basics.png)
+![Data Model Basics](Data Model Basics.png)
