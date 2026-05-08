@@ -150,24 +150,24 @@ The student successfully completes admission and becomes an official student of 
 ---
 
 ## Salesforce Playground
-![Salesforce Playground](images/playground.png)
+![Salesforce Playground](images/Trailhead Module Completion.png)
 
 ---
 
 ## CRM Module Completion
-![CRM Module Completion](images/crm-module.png)
+![CRM Module Completion](images/CRM Module Completion.png)
 
 ---
 
 ## Playground Setup
-![Playground Setup](images/playground-setup.png)
+![Playground Setup](images/Playground Setup.png)
 
 ---
 
 ## Platform Basics
-![Platform Basics](images/platform-basics-completed.png)
+![Platform Basics](images/Platform Basics.png)
 
 ---
 
 ## Data Model Basics
-![Data Model Basics](images/data-model-basics-completed.png)
+![Data Model Basics](images/Data Model Basics.png)
