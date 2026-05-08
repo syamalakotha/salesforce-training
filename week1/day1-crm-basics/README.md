@@ -157,7 +157,7 @@ The student successfully completes admission and becomes an official student of 
 ![Playground Setup](playground-setup.png)
 
 ### Platform basics
-![Platform basics](platform-basics-completed.png.png)
+![Platform basics](platform-basics-completed.png)
 
 ### Data Model Basics
 ![Data Model Basics](data-model-basics-completed.png)
