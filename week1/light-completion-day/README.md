@@ -1,54 +1,53 @@
+# Light Completion Day
+
+## Modules Completed
+
+1. Search Solution Basics
+2. Agentforce 360 Platform Events Basics
+3. Command-Line Interface (CLI)
+
+---
 
 # 1. CLI Reflection
 
-Developers prefer command-line tools because they are faster, more powerful, and help automate tasks easily. Instead of clicking multiple buttons, developers can run a single command to create projects, install packages, deploy code, and manage files. Command-line tools also help in automation, scripting, and working efficiently with tools like Git and Salesforce CLI.
+Developers prefer command-line tools because they help perform tasks faster and more efficiently than clicking multiple buttons. Using CLI, developers can automate repetitive tasks, create projects quickly, install packages, manage files, and deploy applications with simple commands. CLI tools also improve productivity and are very useful for scripting and large-scale development workflows.
 
 ---
 
 # 2. Search Reflection
 
-Fast and accurate search is important in enterprise systems because companies handle huge amounts of data every day. Employees and customers need quick access to information such as records, files, products, and support articles. Efficient search improves productivity, saves time, enhances customer experience, and helps users find the correct information without confusion.
+Fast and accurate search is important in enterprise systems because organizations store huge amounts of data such as customer details, products, files, and support articles. Efficient search helps users quickly find the correct information, improves productivity, saves time, and enhances customer satisfaction. Poor search performance can slow down business operations and make systems difficult to use.
 
 ---
 
 # 3. Platform Event Thinking
 
-## Real-Life Example: Student Registration System
+## Real-Life Example: Payment Completed System
 
-When a student successfully registers for a course, one action should automatically notify multiple systems and users.
+When a customer completes a payment online, one action should automatically notify multiple systems and users.
 
-### Notifications Sent Automatically:
-- Student receives confirmation email
-- Faculty system updates student count
-- Fee payment system updates records
-- Library system activates student access
-- Admin dashboard receives registration update
+### Automatic Notifications:
+- Customer receives payment confirmation email
+- Billing system updates payment status
+- Inventory system updates product stock
+- Shipping system starts delivery process
+- Admin dashboard receives transaction notification
 
-This is an example of an event-driven architecture where one event triggers multiple automated actions.
+This is an example of event-driven architecture where one event triggers multiple systems automatically.
 
 ---
 
 # One Learning from Each Module
 
-| Module | Learning |
+| Module | One Learning |
 |---|---|
-| Command-Line Interface | Learned how developers use CLI for faster development |
-| Command Structure and Navigation | Learned commands like cd, mkdir, and pwd |
-| Search for Common Use Cases | Learned how SOSL searches multiple objects |
-| Optimize Search Results | Learned how filters and LIMIT improve search performance |
-| Event-Driven Architecture | Learned how platform events connect systems asynchronously |
-| Apex Triggers | Learned how triggers automate actions on records |
-| SOQL and SOSL | Learned differences between database query and search query |
-| DML Operations | Learned how insert, update, delete, and upsert work |
-| Efficient Queries | Learned importance of indexed and selective queries |
+| Search Solution Basics | Learned how SOSL helps search across multiple objects efficiently |
+| Agentforce 360 Platform Events Basics | Learned how platform events enable communication between systems in real time |
+| Command-Line Interface (CLI) | Learned how commands, flags, and arguments work in the terminal |
 
 ---
 
-# One Doubt / Question
 
-How does Salesforce internally optimize platform event delivery when millions of events are processed simultaneously?
-
----
 
 # Screenshot of Trailhead Progress
 
