@@ -51,7 +51,7 @@ This is an example of event-driven architecture where one event triggers multipl
 
 # Screenshot of Trailhead Progress
 
-## Add your screenshot here
+## Trailhead Progress
 
 ```md
 ![Trailhead Progress](trailhead-progress.png)
